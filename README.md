@@ -1,6 +1,10 @@
 # Olá! 👋
+
 🌱Construindo a base para um futuro incrível.
+
 🧱Estudante de Desenvolvimento de Sistemas.
+
 🐍Focado em dominar Phyton.
+
 😅No momento: Explorando GitHub.
 
