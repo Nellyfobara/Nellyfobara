@@ -4,7 +4,7 @@
 
 🌱Construindo a base para um futuro incrível.
 
-🐍Focado em dominar Phyton, HTML, CSS
+🐍Focado em dominar Phyton, HTML, CSS.
 
 🚀No momento: Explorando GitHub.
 
